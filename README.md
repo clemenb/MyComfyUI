@@ -1,4 +1,4 @@
-Hey r/comfyui! I’ve crafted a ComfyUI workflow that batch-processes images to generate captions using **BLIP Analyze Image** and **Florence2Run**, then saves each image with its own .txt caption file using **ImageBatchSaver**—perfect for AI training datasets. Check it out on my site: [makuta.io/comfyui-batch-captioning](https://makuta.io/comfyui-batch-captioning).
+Hey comfyui world! I’ve crafted a ComfyUI workflow that batch-processes images to generate captions using **BLIP Analyze Image** and **Florence2Run**, then saves each image with its own .txt caption file using **ImageBatchSaver**—perfect for AI training datasets. Check it out on my site: [makuta.io/comfyui-batch-captioning](https://makuta.io/comfyui-batch-captioning).
 
 **Workflow Breakdown**:
 - **LoadImagesFromFolderKJ** (from comfyui-kjnodes): Loads up to 6 images from a folder (e.g., `C:\Users\clement\ComfyUI\output\Character02`).
